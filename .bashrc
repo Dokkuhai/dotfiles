@@ -13,4 +13,5 @@ PS1='[\u@\h \W]\$ '
 export PATH=path/to/javac:$PATH
 
 
-
+#Run neofetch when statup terminal
+neofetch
